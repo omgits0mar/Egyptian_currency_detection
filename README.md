@@ -37,6 +37,10 @@ The following is a real-live video demonstrating the sample run of the project w
   <source src="img-2013_slowed_Trim.mp4">
 </video>
 
+
+[Real-Time currency detection](https://github.com/omgits0mar/Egyptian_currency_detection/assets/63152481/175d9f8c-808f-4d1e-aec7-b5eb3c369daa)
+
+
 ## Conclusion
 
 In conclusion, this project demonstrates the use of YOLO for banknote detection and recognition on the Egyptian currency dataset. The trained model can be used in real-world applications, such as banknote counting machines and ATM machines but it is mainly used in our project to help visually impaired people recognize and know what money they have and also how much by counting them.
