@@ -37,4 +37,14 @@ To test the YOLO model, we ran it on a set of test images. The output of the mod
 
 In conclusion, this project demonstrates the use of YOLO for banknote detection and recognition on the Egyptian currency dataset. The trained model can be used in real-world applications, such as banknote counting machines and ATM machines but it is mainly used in our project to help visually impaired people recognize and know what money they have and also how much by counting them.
 
+## Note :
 
+This repo and code feature is an open source python notebook part of the graduation project App `Smart Vision for Visually impaired` which aims to help visually impaired people sense and know what is going around by using AI, Computer Vision and Deeplearning to create powerfull features in a mobile app that could help those everyone in needs
+This App is currently in developing of some features as :
+1. Optical characater recognition (OCR) for reading text in many languages.
+2. Friends face recognition using Siamese one-shot learn
+3. **Currency detection (Egyptian banknotes ✅) using YOLO object detection and EGYPT-IRIS dataset**
+4. Image Caption and Scene Recognition of surroundings usind Pre-trained large models.
+5. Voice commands (Trigger words detection) for choosing which feature the patiant wants by voice in the application
+6. Object detection filtered by text and depth estimating the distance of this object using OpenAi's ClipSeg and Intel's DPT models.
+Though in this notebook doesnot feature the real-time extraction as these are used in the app only.
