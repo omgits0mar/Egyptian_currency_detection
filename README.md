@@ -29,9 +29,13 @@ Once the data was preprocessed, we trained the YOLOv8 model using the following 
 - Number of classes: 5 (for the five banknote denominations)
 
 
-## Inference
+## Results
 
-To test the YOLO model, we ran it on a set of test images. The output of the model is a set of bounding boxes around the banknotes in the image. We then used OpenCV to draw the bounding boxes on the image and labeled them with the corresponding banknote denomination.
+The following is a real-live video demonstrating the sample run of the project with me testing it :)
+
+<video width="640" height="360" controls autoplay loop>
+  <source src="img-2013_slowed_Trim.mp4">
+</video>
 
 ## Conclusion
 
